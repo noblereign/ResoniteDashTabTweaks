@@ -10,6 +10,10 @@ A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoade
 **Ensure Home is Default**: Makes it so the Home tab is the selected tab on startup, no matter what.  
 *Helps if you have something interfering with your default tab. (for example, a mod that adds a dash tab too quickly)*
 
+## Screenshots
+
+https://github.com/user-attachments/assets/a8ff745c-d6e4-4263-8d76-019d1b43c498
+
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
 1. Place [DashTabTweaks.dll](https://github.com/noblereign/ResoniteDashTabTweaks/releases/latest/download/DashTabTweaks.dll) into your `rml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\Resonite\rml_mods` for a default install. You can create it if it's missing, or if you launch the game once with ResoniteModLoader installed it will create this folder for you.
