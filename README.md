@@ -2,15 +2,13 @@
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that adds a few quality of life features to dash tabs.
 
-The current feature list:
+## Current features
 
-- **Scrollable Dash Tabs**: Adds a ScollRect to the tab list below the dash, allowing you to access tabs that would have otherwise been off-screen. 
+**Scrollable Dash Tabs**: Adds a ScollRect to the tab list below the dash, allowing you to access tabs that would have otherwise been off-screen.  
+*Helps with [Issue 876 - Bottom bar of dash doesn't resize depending on the screen size](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/876)*
 
-Helps with [Issue 876 - Bottom bar of dash doesn't resize depending on the screen size](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/876)
-
-- **Ensure Home is Default**: Makes it so the Home tab is the selected tab on startup, no matter what.
-
-Helps if you have something interfering with your default tab. (for example, a mod that adds a dash tab too quickly)
+**Ensure Home is Default**: Makes it so the Home tab is the selected tab on startup, no matter what.  
+*Helps if you have something interfering with your default tab. (for example, a mod that adds a dash tab too quickly)*
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
